@@ -1,0 +1,11 @@
+EXEC
+className: SWT_Window0 title:
+EXEC
+className: SWT_Window0 title:
+EXEC
+className: SWT_Window0 title:
+EXEC
+className: SWT_Window0 title:
+EXEC
+className: SWT_Window0 title:
+STOP
